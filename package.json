@@ -1,0 +1,12 @@
+{
+    "name": "device-emulator-mqtt",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./device-emulator.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.0.2",
+        "mqtt": "^4.2.8"
+    }
+}
